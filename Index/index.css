@@ -1,0 +1,53 @@
+#main-page{
+  background:url('../images/jhs.jpg') 50% 0 no-repeat;
+  padding: 200px 0 260px 0;
+  background-position: center;
+  background-size: cover;
+  font-size: 250%;
+  text-shadow: 0px 1px 14px rgba(0, 0, 0, 1.0);
+}
+
+strong #main-page{
+  font-weight: 300;
+  color: #00ff00;
+}
+
+.home-about-textbox {
+
+	background-color: #232323;
+
+	padding: 4em;
+
+	width: 100vw;
+
+	margin-left: -2.5%;
+
+	outline: 2px solid #00ff6c;
+
+	outline-offset: -2.5em;
+
+	color: #FFF;
+
+	position: relative;
+
+}
+
+
+
+.home-about-textbox h1 {
+
+	color: #00ff6c;
+
+	position: absolute;
+
+	left: 50%;
+
+	transform: translateX(-50%);
+
+	top: .75em;
+
+	background: #232323;
+
+	padding: 0 .145em;
+
+}
