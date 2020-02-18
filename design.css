@@ -1,0 +1,28 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  cursor: url('images/turquoise-png-7.png'), auto;
+  text-align: center;
+}
+#mascot{
+  margin-left: 8px;
+  margin-right: 200px;
+  max-width: 20%;
+}
+h1 {
+  font-weight: 300;
+  font-size: 1.7rem;
+}
+
+.top-bar-words{
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.top-bar-words a:hover {
+  color: white;
+}
+
+.top-bar{
+  background: white;
+}
