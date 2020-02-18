@@ -8,6 +8,7 @@
   margin-left: 1px;
   margin-right: 200px;
   max-width: 20%;
+  max-height: 20%;
 }
 h1 {
   font-weight: 300;
@@ -24,6 +25,3 @@ h1 {
   color: white;
 }
 
-.top-bar{
-  background: white;
-}
