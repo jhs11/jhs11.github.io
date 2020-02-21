@@ -1,9 +1,11 @@
 .main-page{
-  background:url('../images/jhs.jpg') 50% 0 no-repeat;
-  padding: 200px 0 260px 0;
+  background:url('../images/jhs.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  font-size: 250%;
+  font-size: 500%;
   text-shadow: 0px 1px 14px rgba(0, 0, 0, 1.0);
 }
 
@@ -46,5 +48,10 @@ h2 .box{
 }
 
 .core-values{
-  background:url('../images/greenbackground.jpg') 50% 0 no-repeat;
+  background:url('../images/greenbackground.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
