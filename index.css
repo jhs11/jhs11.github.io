@@ -16,11 +16,14 @@ strong .main-page{
 
 .box{
   float: right;
+  padding-top:50px;
+  padding-right:80px;
+  padding-bottom:50px;
+  padding-left:80px;
   width: 95%;
   max-width: 100em;
   margin: 0 auto;
   background-color: Gray;
-  padding: 4em;
   width: 100vw;
   margin-left: -2.5%;
   outline: 2px dotted white;
@@ -41,12 +44,17 @@ h2 .box{
 
 }
 
-.images{
+#upper-map{
   float: left;
-  max-width: 50%;
-  max-height: 50%;
+  width: 40%;
+  height: 40%;
 }
 
+#lower-map{
+  float: left;
+  width: 40%;
+  height: 40%;
+}
 .core-values{
   background:url('../images/greenbackground.jpg');
   min-height: 100%;
