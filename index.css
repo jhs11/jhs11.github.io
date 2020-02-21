@@ -1,5 +1,5 @@
 .main-page{
-  background:url('../images/jhs.jpg') hsl(0, 100%, 40%) 100% 0 no-repeat fixed;
+ background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/jhs.jpg') 50% 0 no-repeat fixed;
 
  color: #fff;
 
@@ -54,14 +54,14 @@ h2 .box{
 
 #upper-map{
   float: left;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
 }
 
 #lower-map{
   float: left;
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
 }
 .core-values{
   background:url('../images/greenbackground.jpg') 100% 0 no-repeat fixed;
