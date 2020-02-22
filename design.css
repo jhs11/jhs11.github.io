@@ -16,22 +16,14 @@ h1 {
   font-size: 1.7rem;
 }
 
-nav ul {
-	list-style: none;
-}
 
-nav li {
-	display: inline-block;
-	margin: 1em;
-}
-
-nav a {
+a{
 	text-decoration: none;
 	padding: .5em;
 	color: white;
 }
 
-nav a:hover{
+a:hover{
 	color: #00ff6c;
   opacity: 1;
 }
