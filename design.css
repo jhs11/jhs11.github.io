@@ -45,9 +45,14 @@ nav a:hover{
 }
 .foot{
   position: absolute;
+  width: 100%;
+  height: 100px;
   z-index: 6;
   background-color: #232323;
   color: white;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
