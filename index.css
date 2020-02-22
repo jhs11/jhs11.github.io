@@ -23,6 +23,7 @@
   height: 200px;
   color: white;
   background-size: cover;
+  z-index: 0;
 
 }
 
