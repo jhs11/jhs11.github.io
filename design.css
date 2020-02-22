@@ -8,31 +8,22 @@ h1 {
   font-size: 1.7rem;
 }
 
-nav ul {
-  list-style: none;
-	margin: 0;
-	padding: 0;
-}
 
-nav li {
-  margin: 1em;
-	display: inline-block;
-}
-
-nav a {
+a .top-words{
 	font-weight: 400;
 	text-decoration: none;
 	padding: .5em;
 	color: white;
+  margin: 1em;
+  display: inline-block;
 }
 
-nav a:hover{
+a:hover{
 	color: LightGreen;
   opacity: 1;
 }
 
-.main-button:hover{
-  float: left;
+.main-button a:hover{
   color: white;
   opacity: 1;
 }
