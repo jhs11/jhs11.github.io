@@ -44,6 +44,8 @@ nav a:hover{
   margin: 1em;
 }
 .foot{
+  position: absolute;
+  z-index: 6;
   background-color: #232323;
   color: white;
   margin-top: 5px;
