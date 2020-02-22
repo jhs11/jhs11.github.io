@@ -79,3 +79,7 @@ h2 .box{
   padding:50px 80px;
   text-align: justify;
 }
+
+#top-bar{
+  position: absolute;
+}
