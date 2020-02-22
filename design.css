@@ -43,3 +43,9 @@ nav a:hover{
   display: inline-block;
   margin: 1em;
 }
+.footer{
+  background-color: #232323;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
