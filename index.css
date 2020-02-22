@@ -33,7 +33,9 @@
   z-index: 4;
   position: absolute;
   float: left;
-  width: 40%;
+  width: 30%;
+  margin-left: 0;
+  margin-right: 2px;
 }
 
 .school-map{
