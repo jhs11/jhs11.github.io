@@ -3,6 +3,14 @@
   text-align: center;
 }
 
+#top-bar{
+  position: absolute;
+  float: right;
+  font-weight: bold;
+
+}
+
+
 h1 {
   font-weight: 300;
   font-size: 1.7rem;
@@ -17,11 +25,6 @@ nav li {
 	margin: 1em;
 }
 
-.top-words{
-  float: right;
-  font-weight: 300;
-}
-
 nav a {
 	text-decoration: none;
 	padding: .5em;
@@ -29,20 +32,14 @@ nav a {
 }
 
 nav a:hover{
-	color: LightGreen;
+	color: #00ff6c;
   opacity: 1;
 }
 
 .main-button{
-  font-weight: 300;
   text-decoration: none;
   padding: .5em;
   color: LightGreen;
   display: inline-block;
   margin: 1em;
-}
-
-.main-button:hover{
-  color: white;
-  opacity: 1;
 }
