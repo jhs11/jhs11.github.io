@@ -14,10 +14,16 @@ h1 {
   text-align: center;
   text-decoration: none;
   padding: 14px 16px;
-  font-weight: 250;
+  font-weight: 400;
 }
 
 .top-bar-words a:hover {
-  color: LightGreen;
+  background-color: LightGreen;
+  opacity: 1;
+}
+
+.main-button a:hover{
+  float: left;
+  background-color: white;
   opacity: 1;
 }
