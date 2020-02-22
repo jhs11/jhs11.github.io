@@ -33,7 +33,7 @@
   z-index: 4;
   position: absolute;
   float: left;
-  width: 100%;
+  width: 40%;
 }
 
 .school-map{
@@ -61,7 +61,7 @@ strong #index-section1{
   width: 40%;
   margin: 0 auto;
   background-color: #232323;
-  margin-left: -2.5%;
+  margin-left: 2px;
   outline: 2px dotted #00ff6c;
   outline-offset: -2.5em;
   color: white;
