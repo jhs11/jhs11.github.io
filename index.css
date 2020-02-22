@@ -1,10 +1,11 @@
 #index-section1{
  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/jhs (2).jpg') 50% 0 no-repeat fixed;
- color: #fff;
- height: 500px;
+ color: white;
+ height: 100%;
  margin: 0;
  padding: 200px 0 260px 0;
  background-size: cover;
+ background-position: center;
  font-size: 500%;
  text-align: center;
 }
