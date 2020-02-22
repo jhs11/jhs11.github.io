@@ -12,6 +12,19 @@
  font-size: 2.5rem;
 }
 
+.core-values{
+  background:url('../images/greenbackground.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding: 200px 0 260px 0;
+  background-position: center;
+  position: relative;
+  height: 200px;
+  color: white;
+  background-size: cover;
+
+}
+
 .school-map{
   background-color: white;
   height: 200px;
@@ -65,17 +78,12 @@ h2 .box{
   width: 30%;
   height: 30%;
 }
-.core-values{
-  background:url('../images/greenbackground.jpg') 100% 0 no-repeat fixed;
-  height: 500px;
-  color: white;
-  background-size: cover;
 
-}
 
 .heading{
+  top: 210;
   color: black;
-  background-color: black;
+  background-color: white;
   padding:50px 80px;
   text-align: justify;
 }
