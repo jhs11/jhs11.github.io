@@ -8,6 +8,7 @@
  padding: 200px 0 260px 0;
  background-size: cover;
  background-position: center;
+ z-index: -1;
  position: relative;
  font-size: 2.5rem;
 }
