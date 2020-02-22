@@ -1,27 +1,26 @@
-.main-page{
- background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/jhs (2).jpg') 50% 0 no-repeat fixed;
-
+#index-section1{
+ background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('../images/jhs.jpg') 50% 0 no-repeat fixed;
  color: #fff;
-
  height: 500px;
-
  margin: 0;
-
  padding: 200px 0 260px 0;
-
  background-size: cover;
-  /* background-size: 100% 100%;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center;
+ font-size: 500%;
+ text-align: center;
+}
+
+.school-map{
+  background-color: white;
+  height: 500px;
+  margin: 0;
+  padding: 200px 0 260px 0;
   background-size: cover;
-  font-size: 300%;
-  text-shadow: 0px 1px 14px rgba(0, 0, 0, 1.0); */
+  text-align: center;
 }
 
 strong .main-page{
-  font-weight: 300;
-  color: #00ff00;
+  font-weight: 400;
+  color: LightGreen;
 }
 
 .box{
@@ -69,4 +68,11 @@ h2 .box{
   color: white;
   background-size: cover;
 
+}
+
+.heading{
+  color: black;
+  background-color: white;
+  padding:50px 80px;
+  text-align: justify;
 }
