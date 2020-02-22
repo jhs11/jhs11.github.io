@@ -9,6 +9,7 @@ h1 {
 }
 
 .top-bar-words{
+  position: absolute;
   float: right;
   color: white;
   text-align: center;
@@ -18,12 +19,12 @@ h1 {
 }
 
 .top-bar-words a:hover {
-  background-color: LightGreen;
+  color: LightGreen;
   opacity: 1;
 }
 
 .main-button a:hover{
   float: left;
-  background-color: white;
+  color: white;
   opacity: 1;
 }
