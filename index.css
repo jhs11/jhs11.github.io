@@ -47,6 +47,8 @@
 .school-map{
   background-color: white;
   height: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin: 0;
   background-size: cover;
   text-align: center;
@@ -59,17 +61,17 @@ strong #index-section1{
 
 .box{
   z-index: 5;
-  position: absolute:
+  position: absolute;
   float: right;
   padding-top:50px;
   padding-right:80px;
   padding-bottom:50px;
   padding-left:80px;
-  width: 50%;
+  width: 40%;
   margin: 0 auto;
   background-color: #232323;
   margin-left: -2.5%;
-  outline: 2px dotted white;
+  outline: 2px dotted #00ff6c;
   outline-offset: -2.5em;
   color: white;
   position: relative;
