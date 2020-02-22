@@ -17,9 +17,12 @@ nav li {
 	margin: 1em;
 }
 
-nav a {
+.top-words{
   float: right;
-	font-weight: 300;
+  font-weight: 300;
+}
+
+nav a {
 	text-decoration: none;
 	padding: .5em;
 	color: white;
@@ -35,9 +38,11 @@ nav a:hover{
   text-decoration: none;
   padding: .5em;
   color: LightGreen;
+  display: inline-block;
+  margin: 1em;
 }
 
-.main-button a:hover{
+.main-button:hover{
   color: white;
   opacity: 1;
 }
