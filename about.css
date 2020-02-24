@@ -20,9 +20,15 @@ strong #about-section1{
 
 #research{
   background-color: white;
-  height: 400px;
-  padding: 50px;
+  height: 700px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 70px;
+  padding-right: 70px;
   color: #232323;
+  text-align: left;
+  border: 2px solid #232323;
+  border-radius: 8px;
 }
 
 h1 #research{
@@ -34,6 +40,8 @@ h1 #research{
   color: LightGreen;
   height: 400px;
   padding: 50px;
+  outline: 2px dotted white;
+  outline-offset: -2.5em;
 }
 
 h1 #media{
