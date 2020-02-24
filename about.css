@@ -1,5 +1,5 @@
 #about-section1{
-  background: url('../images/greenbackground.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/greenbackground.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   color: white;
