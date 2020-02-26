@@ -1,0 +1,88 @@
+#page-title{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/greenbackground.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  height: 200px;
+  margin: 0;
+  padding: 200px 0 260px 0;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  position: relative;
+  font-size: 2.5rem;
+}
+
+.nav-links button {
+  border-top: 3px solid #00ff6c;
+  background-color: #E8E8E8;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.25s;
+}
+
+.nav-links button:hover {
+  background-color: white;
+}
+
+.nav-links button.active{
+  background-color: white;
+}
+.nav-info{
+  padding: 12px;
+  height: 800px;
+}
+.tech-clubs{
+  background-color: LightGreen;
+  color: black;
+  height: 300px;
+}
+#gall{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/greenbackground.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  height: 200px;
+  margin: 0;
+  padding: 50px;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  position: relative;
+}
+.project-pics{
+  margin: 5px;
+  border: 1px double black;
+  float: left;
+  width: 180px;
+}
+.description{
+  padding: 15px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+/*  div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+*/
