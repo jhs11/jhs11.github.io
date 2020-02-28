@@ -13,7 +13,7 @@
   font-size: 2.5rem;
 }
 
-.nav-links button {
+.navlinks button {
   border-top: 3px solid #00ff6c;
   background-color: #E8E8E8;
   cursor: pointer;
@@ -21,21 +21,34 @@
   transition: 0.25s;
 }
 
-.nav-links button:hover {
+.navlinks button:hover {
   background-color: white;
 }
 
-.nav-links button.active{
+.navlinks button.active{
   background-color: white;
 }
-.nav-info{
+
+.navinfo{
   padding: 12px;
   height: 800px;
+  font-size: 1em;
 }
+
 .tech-clubs{
   background-color: LightGreen;
   color: black;
   height: 800px;
+  padding: 50px;
+}
+
+.table{
+  text-align: center;
+  padding: 5px;
+  border-top: 2px solid black;
+}
+ul{
+  list-style: none;
 }
 #gall{
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/greenbackground.jpg');
@@ -51,10 +64,11 @@
   position: relative;
 }
 .project-pics{
-  margin: 5px;
+  background: white;
+  margin: auto;
   border: 1px double black;
   float: left;
-  width: 180px;
+  width: 20%;
 }
 .description{
   padding: 15px;
