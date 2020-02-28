@@ -40,7 +40,7 @@
 
 .school-map{
   background-color: white;
-  height: 300px;
+  height: 500px;
   padding-top: 10px;
   margin: 0;
   background-size: cover;
@@ -62,6 +62,7 @@ strong #index-section1{
   padding-left:80px;
   width: 40%;
   margin: 0 auto;
+  margin-top: 2px;
   background-color: #232323;
   margin-left: 2px;
   outline: 2px dotted #00ff6c;
@@ -91,9 +92,11 @@ h2 .box{
   text-align: justify;
   border: 2px solid #232323;
   border-radius: 8px;
+  margin-bottom: 5px;
 }
 
 #core-values-heading{
   color: LightGreen;
   font-weight: bold;
+  font-size: 300%;
 }
