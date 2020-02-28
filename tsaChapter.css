@@ -18,7 +18,7 @@
   background-color: LightGreen;
 }
 
-img .tsachapter-pics{
+img{
   border: 4px solid #00ff6c;
   margin: auto;
   width: 25%;
@@ -88,12 +88,12 @@ img .tsachapter-pics{
   color: #232323;
 }
 
-img .activities-cservice{
+/*img .activities-cservice{
   border: 4px solid #232323;
   margin: auto;
   width: 10%;
   height: 10%;
-}
+}*/
 
 .awards{
   height: 500px;
