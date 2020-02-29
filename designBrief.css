@@ -10,7 +10,7 @@
   font-weight: bold;
   display: inline-block;
   text-align: center;
-  margin: auto;
+  margin: 1em;
 }
 
 h3 {
@@ -41,7 +41,7 @@ body{
   color: white;
   height: 200px;
   margin: 0;
-  padding:0;
+  padding: 200px 0 260px 0;
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -61,6 +61,8 @@ body{
 .project-pics{
   background: white;
   margin: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
   border: 1px double black;
   float: left;
   width: auto;
@@ -86,6 +88,7 @@ img {
   margin-top: 20px;
   margin-right: 50px;
   margin-left: 50px;
+  position: center;
 
 }
 
@@ -103,6 +106,10 @@ a{
 
 #servicing{
   height: 700px;
+}
+
+#service-table{
+  padding: 20px;
 }
 
 #contact{}
