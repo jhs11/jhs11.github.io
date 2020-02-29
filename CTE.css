@@ -63,7 +63,7 @@ ul{
   background-attachment: fixed;
   background-repeat: no-repeat;
   color: white;
-  height: 1350px;
+  height: 1600px;
   margin: 0;
   padding: 50px;
   background-size: cover;
@@ -78,7 +78,7 @@ ul{
   border: 1px double black;
   float: left;
   width: 20%;
-  height: 500px;
+  height: 700px;
   padding: 50px;
 }
 .description{
