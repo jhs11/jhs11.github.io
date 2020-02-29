@@ -52,6 +52,8 @@ img{
 }
 
 .creed-motto{
+  border-top: 2px solid black;
+  padding-top: 5px;
   height: 300px;
   color: black;
 
@@ -66,9 +68,9 @@ img{
   height: 200px;
   background-color: LightGreen;
   padding: 50px 80px;
-  outline: 2px dotted #00ff6c;
+  outline: 2px dotted #232323;
   outline-offset: -2.5em;
-  color: white;
+  color: black;
   position: relative;
 }
 
@@ -86,7 +88,7 @@ img{
 }
 
 .activities-cservice{
-  height: 700px;
+  height: 800px;
   background-color: white;
   color: #232323;
 }
@@ -99,7 +101,7 @@ img{
 }*/
 
 .awards{
-  height: 500px;
+  height: 400px;
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/awards.jpg');
   color: white;
   background-attachment: fixed;
