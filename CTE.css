@@ -32,9 +32,9 @@
 
 .navinfo{
   padding: 12px;
-  height: 800px;
+  height: 600px;
   font-size: 13px;
-  border: 3px solid #00ff6c;
+  border: 3px dotted #00ff6c;
   border-radius: 8px;
 }
 
@@ -43,13 +43,13 @@
   color: black;
   height: 500px;
   padding: 50px 80px;
-  outline: 2px dotted #00ff6c;
+  outline: 2px dotted #232323;
   outline-offset: -2.5em;
 
 }
 
 .tech-clubs-info{
-  margin: 10px;
+  padding: 10px;
 }
 
 .table{
@@ -83,6 +83,7 @@ ul{
   border: 1px double black;
   float: left;
   width: 20%;
+  height: 200px;
   padding: 50px;
 }
 .description{
@@ -104,7 +105,7 @@ img .project-pics{
 }
 
 table.teachers{
-  background: LightGray;
+  background: #232323;
   color: white;
   margin-left: auto;
   margin-right: auto;
