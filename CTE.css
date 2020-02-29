@@ -80,7 +80,7 @@ ul{
   width: 20%;
   height: 200px;
   padding: 50px;
-  overflow: auto;
+  overflow: scroll;
 }
 .description{
   padding: 15px;
